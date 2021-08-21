@@ -20,6 +20,8 @@ a:hover{
     color: #f08040;
 }
 
+
+
 .grid-container{
     display: grid;
     grid-template-areas: 
@@ -79,6 +81,7 @@ footer{
     margin-bottom: 0;
     height: 42rem;
     border-top: 0.2rem #e0e0e0e0 solid;
+    
 }
 
 product{
